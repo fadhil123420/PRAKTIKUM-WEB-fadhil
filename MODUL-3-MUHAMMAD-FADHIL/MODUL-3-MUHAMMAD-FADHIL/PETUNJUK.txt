@@ -1,0 +1,13 @@
+MODUL 3 - MUHAMMAD FADHIL MUQORROBIN
+NIM: 1202405022
+
+CARA MENJALANKAN:
+1. Ekstrak folder MODUL-3-MUHAMMAD-FADHIL.
+2. Salin folder hasil ekstrak ke C:\xampp\htdocs\ jika ingin memakai XAMPP.
+3. Pastikan file index.html, style.css, logo-umpku.png, dan foto-muhammad-fadhil.jpg berada dalam satu folder.
+4. Buka index.html di browser, atau akses melalui http://localhost/NAMA_FOLDER/ jika Apache XAMPP aktif.
+
+CATATAN:
+- Modul ini merupakan halaman HTML dan CSS statis, sehingga tidak membutuhkan database atau MySQL.
+- Jika ingin mengubah foto atau logo, ganti file gambar dengan nama file yang sama.
+- Konten profil kampus mengikuti materi dari file HTML yang diberikan.

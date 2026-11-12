@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Modul 2 | Muhammad Fadhil Muqorrobin</title>
+<style>
+:root{--orange:#f36b16;--dark:#202329;--muted:#707780;--bg:#f5f6f7}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Arial,Helvetica,sans-serif;background:var(--bg);color:var(--dark);line-height:1.6}
+header{background:linear-gradient(120deg,#1c1e22,#303238);color:#fff;padding:54px 22px}
+.wrap{width:min(1000px,calc(100% - 40px));margin:auto}
+.kicker{color:#ff9a5a;font-size:12px;font-weight:bold;letter-spacing:2px}
+h1{font-size:clamp(32px,5vw,48px);line-height:1.15;margin:12px 0}
+header p{color:#d3d5d8}
+main{padding:42px 0}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+.card{background:#fff;border:1px solid #e6e7e9;border-radius:16px;padding:26px;box-shadow:0 12px 30px #2023290d}
+.num{color:var(--orange);font-weight:bold;font-size:12px;letter-spacing:1px}
+h2{font-size:22px;margin:9px 0}
+.card p{color:var(--muted);font-size:14px;margin-bottom:20px}
+a.btn{display:inline-block;background:var(--orange);color:white;text-decoration:none;padding:11px 17px;border-radius:8px;font-weight:bold;font-size:13px}
+.profile{margin-top:22px;background:#fff;border-radius:14px;padding:22px;border:1px solid #e6e7e9}
+.profile strong{color:var(--orange)}
+footer{text-align:center;color:#777;padding:25px;font-size:12px}
+@media(max-width:650px){.grid{grid-template-columns:1fr}header{padding:42px 0}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+<span class="kicker">UNIVERSITAS MUHAMMADIYAH PKU SURAKARTA</span>
+<h1>Modul 2<br>Praktikum Pemrograman Web</h1>
+<p>Kumpulan latihan HTML dasar dan pembuatan tabel menu kuliner.</p>
+</div></header>
+<main class="wrap">
+<div class="grid">
+<article class="card">
+<span class="num">LATIHAN 01</span>
+<h2>Heading dan Paragraph</h2>
+<p>Contoh penggunaan elemen heading dari tingkat pertama sampai keenam serta paragraf dengan teks tebal.</p>
+<a class="btn" href="prak1.html">Buka Latihan 1 ↗</a>
+</article>
+<article class="card">
+<span class="num">LATIHAN 02</span>
+<h2>Daftar Menu Kuliner</h2>
+<p>Halaman daftar menu dengan gambar, nama makanan, harga, tautan reservasi, dan footer.</p>
+<a class="btn" href="Tugas1.html">Buka Tugas 1 ↗</a>
+</article>
+</div>
+<section class="profile">
+<span class="num">IDENTITAS MAHASISWA</span>
+<p><strong>Nama:</strong> Muhammad Fadhil Muqorrobin</p>
+<p><strong>NIM:</strong> 1202405022</p>
+<p><strong>Program Studi:</strong> D4 Elektromedis</p>
+<p><strong>Universitas:</strong> Universitas Muhammadiyah PKU Surakarta</p>
+</section>
+</main>
+<footer>© 2026 Muhammad Fadhil Muqorrobin · Modul 2 Praktikum Pemrograman Web</footer>
+</body>
+</html>

@@ -1,0 +1,17 @@
+MODUL 2 - MUHAMMAD FADHIL MUQORROBIN
+NIM: 1202405022
+
+ISI FOLDER:
+- index.html : halaman utama Modul 2 dan tautan ke dua latihan.
+- prak1.html : latihan HTML heading dan paragraph.
+- Tugas1.html : halaman daftar menu Nusantara Culinary Haven.
+
+CARA MENJALANKAN:
+1. Ekstrak ZIP.
+2. Letakkan folder hasil ekstrak di C:\xampp\htdocs\ (jika memakai XAMPP).
+3. Buka http://localhost/MODUL-2-MUHAMMAD-FADHIL/ pada browser.
+   Atau buka index.html langsung dengan browser.
+4. Pastikan koneksi internet tersedia untuk memuat gambar eksternal di halaman menu.
+
+CATATAN:
+Isi materi, nama menu, gambar, harga, dan tautan reservasi pada Tugas1.html dipertahankan dari file yang diberikan. Identitas mahasiswa diperbarui sesuai data yang diberikan.

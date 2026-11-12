@@ -1,0 +1,11 @@
+MODUL 5 — MUHAMMAD FADHIL MUQORROBIN
+NIM: 1202405022
+
+1. Ekstrak ZIP.
+2. Pindahkan folder MODUL-5-MUHAMMAD-FADHIL ke C:\xampp\htdocs\.
+3. Jalankan Apache dan MySQL di XAMPP.
+4. Import database.sql melalui phpMyAdmin.
+5. Buka http://localhost/MODUL-5-MUHAMMAD-FADHIL/
+
+Baca README.md untuk petunjuk lengkap.
+PENTING: Backup database lama sebelum mengimpor SQL jika sudah ada data yang perlu dipertahankan.

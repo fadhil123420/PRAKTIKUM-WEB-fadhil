@@ -1,0 +1,3 @@
+<?php
+echo "APACHE BERHASIL MEMBACA FOLDER!";
+?>
